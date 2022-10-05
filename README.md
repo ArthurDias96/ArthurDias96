@@ -13,7 +13,6 @@
 
 
 # SIGA-ME ⤵️
-[![Blog](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://arthurdias.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurfeerdias/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thurfd196/)
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/arthurdf)
