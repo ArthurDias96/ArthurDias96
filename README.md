@@ -9,7 +9,7 @@
 * <p>Local: Ijuí - RS</p>
 * <p>Universidade: ADS na Estácio</p>
 
- # 💼Atualmente trabalho como Programador Front-End Jr e ceo da minha empresa.
+ # 💼Atualmente trabalho como Programador Front-End Jr e CEO da ADF SOLUÇÕES.
 
 
 # SIGA-ME ⤵️
