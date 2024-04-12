@@ -1,6 +1,6 @@
 # Olá Mundo!
 
-# 📜 Meu nome é Arthur Dias, sou PCD (Pessoa com Deficiência Auditiva), desenvolvedor Front-End e Técnico de Informática. Possuo experiência no desenvolvimento de mods para o jogo Farming Simulator, bem como experiência como estagiário técnico de informática, onde realizei manutenção de hardware e prestação de suporte técnico interno. Sempre dediquei parte do meu tempo a projetos por hobby, como o Blogger, e à criação de mods para jogos. Mantenho uma fascinação constante pela tecnologia e estou sempre atento às novidades do mercado. Atualmente, ocupo a posição de desenvolvedor Front-End e CEO na empresa ADF SOLUÇÕES.
+# 📜 Meu nome é Arthur Dias. Sou desenvolvedor Front-End, Técnico de Informática e CEO da ADF SOLUÇÕES. Com experiência em mods para Farming Simulator e suporte técnico interno, mantenho-me atualizado com as últimas inovações do mercado. Minha paixão pela tecnologia me motiva a buscar constantemente o aprimoramento e a promoção da inclusão no setor.
 
 
 # Informação detalhadas
