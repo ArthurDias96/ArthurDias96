@@ -1,6 +1,6 @@
 # Olá Mundo!
 
-# 📜 Meu nome é Arthur Dias. Sou desenvolvedor Front-End, Técnico de Informática e CEO da ADF SOLUÇÕES. Com experiência em mods para Farming Simulator e suporte técnico interno, mantenho-me atualizado com as últimas inovações do mercado. Minha paixão pela tecnologia me motiva a buscar constantemente o aprimoramento e a promoção da inclusão no setor.
+# 📜 Meu nome é Arthur Dias, desenvolvedor Front-End e CEO da ADF SOLUÇÕES. Com vasta experiência em desenvolvimento web, especialmente em front-end, sou proficiente em linguagens como HTML, CSS, Sass, TypeScript e frameworks como React.js. Além disso, tenho um histórico sólido em suporte técnico interno. Minha dedicação à tecnologia me impulsiona a buscar constantemente o aprimoramento e a promover a inclusão no setor.
 
 
 # Informação detalhadas
