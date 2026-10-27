@@ -1,0 +1,29 @@
+name: Profile Summary Cards
+
+# Gera os cards de estatística como SVGs estáticos dentro do repositório.
+# O README aponta para esses arquivos locais, então ele não depende de
+# nenhum serviço externo estar no ar ou dentro do rate limit.
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # todo dia às 06:17 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          TIME_ZONE: "America/Sao_Paulo"
+          THEME: "github_dark"
+          EXCLUDE: "Pascal"
