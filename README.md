@@ -18,7 +18,7 @@ I build fast, accessible storefronts and web apps with React, Next.js and TypeSc
 <a href="https://www.linkedin.com/in/arthurfeerdias/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://arthurdias.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
 <a href="mailto:arthurfdias96@gmail.com">Email</a> &nbsp;·&nbsp;
-<a href="https://adfsolucoes.com/">ADF Soluções Digital</a>
+<a href="https://adfsolucoesdigital.com.br/">ADF Soluções Digital</a>
 
 </div>
 
@@ -28,7 +28,7 @@ I build fast, accessible storefronts and web apps with React, Next.js and TypeSc
 
 I'm a Front-End Developer and Tech Lead specialized in **e-commerce**, working mainly with **React, Next.js and TypeScript** on platforms like VTEX IO and Wake. My day-to-day is turning Figma layouts into reusable components, integrating APIs, fixing checkout and account flows, and keeping storefronts fast.
 
-I'm also the founder of **[ADF Soluções Digital](https://adfsolucoes.com/)**, a digital agency delivering institutional websites, e-commerce, front-end development, integrations, migrations, maintenance and consulting.
+I'm also the founder of **[ADF Soluções Digital](https://adfsolucoesdigital.com.br/)**, a digital agency delivering institutional websites, e-commerce, front-end development, integrations, migrations, maintenance and consulting.
 
 ## What I'm working on
 
@@ -104,4 +104,4 @@ Internal management platform for ADF Soluções, with an authenticated dashboard
 
 Open to freelance projects and e-commerce improvements focused on performance and UX.
 
-[LinkedIn](https://www.linkedin.com/in/arthurfeerdias/) &nbsp;·&nbsp; [Portfolio](https://arthurdias.vercel.app/) &nbsp;·&nbsp; [arthurfdias96@gmail.com](mailto:arthurfdias96@gmail.com) &nbsp;·&nbsp; [ADF Soluções Digital](https://adfsolucoes.com/)
+[LinkedIn](https://www.linkedin.com/in/arthurfeerdias/) &nbsp;·&nbsp; [Portfolio](https://arthurdias.vercel.app/) &nbsp;·&nbsp; [arthurfdias96@gmail.com](mailto:arthurfdias96@gmail.com) &nbsp;·&nbsp; [ADF Soluções Digital](https://adfsolucoesdigital.com.br/)
